@@ -1,1 +1,7 @@
-Hi all
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git add .
+git commit -m "added one file"
+git remote add origin https://github.com/vasu8480/practise.
+git branch -M main
+git push -u origin main
